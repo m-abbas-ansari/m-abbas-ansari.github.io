@@ -26,20 +26,18 @@
     {% else %}
       <link rel="preload" href="{{ site.logo | relative_url }}" as="image">
     {% endif %}
-    
+
     {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
         <div class="sidebar">
             <header>
-                <h1 style="text-align:center" ><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
                 {% if site.logo %}
                   {% if site.cdn.jsdelivr.enabled %}
                     <img class="img-circle" src="{{ assets_base_url }}{{ site.logo }}" alt="Logo">
                   {% else %}
-                    <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo">
+                    <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo" style="margin-left: 2em; margin-bottom: 0em; width: 80%; border-radius: 50%;">
                   {% endif %}
                 {% endif %}
 

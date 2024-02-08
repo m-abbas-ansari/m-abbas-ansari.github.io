@@ -16,20 +16,28 @@
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1 style="text-align:center" ><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <div class="sidebar">
+            <header>
+                <h1 style="text-align:center" ><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="M. Abbas Ansari" align="center" style="margin-left: 2em; margin-bottom: 0em; width: 80%; border-radius: 50%;" />
-        {% endif %}
+                {% if site.logo %}
+                <img src="{{site.logo | relative_url}}" alt="M. Abbas Ansari" align="center" style="margin-left: 2em; margin-bottom: 0em; width: 80%; border-radius: 50%;" />
+                {% endif %}
 
-        <div style="margin-top: 2em; margin-bottom: 0em; text-align: center">
-            <a href="https://github.com/shrutirij"><i class='fa fa-github'></i> github</a> | <a href="https://twitter.com/shrutirij"><i class='fa fa-twitter'></i> twitter</a> | <a href="https://www.linkedin.com/in/shrutirijhwani/"><i class='fa fa-linkedin'></i> linkedin</a>
-            <br/>
-            <a href="https://scholar.google.com/citations?user=_MQ_lNgAAAAJ"><i class="ai ai-google-scholar"></i> google scholar</a> | <a href="https://www.semanticscholar.org/author/7391530"><i class="ai ai-semantic-scholar"></i> semantic scholar</a>
+                {% if site.email %}
+                    <p class="addr"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align: -0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><path d="m22 6l-10 7L2 6"/></g></svg>&nbsp;{{ site.email }}</p>
+                {% endif %}
+
+                <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
+                <p>BTech CS Final Year student @ Jamia Millia Islamia, New Delhi | Undergraduate ML Researcher</p>
+
+                {% include sidebar.html %}
+            
+            </header>
+
+            {% include links-mobile.html %}
+            
         </div>
-      
-      </header>
       <section>
 
       {{ content }}

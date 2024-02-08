@@ -37,7 +37,7 @@
                   {% if site.cdn.jsdelivr.enabled %}
                     <img class="img-circle" src="{{ assets_base_url }}{{ site.logo }}" alt="Logo">
                   {% else %}
-                    <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo" style="margin-left: 2em; margin-bottom: 0em; width: 80%; border-radius: 50%;">
+                    <img class="img-circle" src="{{ site.logo | relative_url }}" alt="Logo" style="margin-left: 1em; margin-bottom: 1em; border-radius: 50%;">
                   {% endif %}
                 {% endif %}
 
@@ -48,7 +48,7 @@
                 {% endif %}
 
                 <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
-                <p>CS Senior @ JMI, New Delhi. ML Researcher</p>
+                <p>CS Senior @ JMI, New Delhi</p><p> ML Researcher</p>
 
                 {% include sidebar.html %}
             

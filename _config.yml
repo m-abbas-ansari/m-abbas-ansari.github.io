@@ -7,21 +7,24 @@ github_username: m-abbas-ansari
 # email: mohd.abbas.ansari.2001@gmail.com
 twitter_username: King_of_Haskul
 theme: jekyll-theme-minimal
-logo: assets/images/Abbas.jpg
+logo: assets/img/Abbas.jpg
 
 sidebar:
+  - name: Email
+    icon: fa-regular fa-envelope
+    link: mailto:mohd.abbas.ansari.2001@gmail.com
   - name: CV
     icon: fa-regular fa-file-pdf
-    link: /cv.pdf
-  - name: Google Scholar
-    icon: fa-brands fa-google-scholar
-    link: https://scholar.google.com/citations?user=vOIa3kwAAAAJ&hl=en
+    link: /assets/docs/cv.pdf
   - name: GitHub
     icon: fa-brands fa-github
     link: https://github.com/m-abbas-ansari
   - name: LinkedIn
     icon: fa-brands fa-linkedin-in
     link: https://www.linkedin.com/in/abbas-ansari-2001/
+  - name: Google Scholar
+    icon: fa-brands fa-google-scholar
+    link: https://scholar.google.com/citations?user=vOIa3kwAAAAJ&hl=en
   - name: X
     icon: fa-brands fa-x-twitter
     link: https://twitter.com/King_of_Haskul

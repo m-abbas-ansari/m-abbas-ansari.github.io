@@ -10,23 +10,23 @@ My research interests lie in the intersection of neuroscience and artificial int
 
 ### Highlights
 
-**31/01/2024** Secured 4th Position at SemEval Task-3 Competition! \
-**19/12/2023** Grand Finalist of SIH 2023 at KIT, Kolhapur! \
-**01/08/2023** Completed Summer Research Internship at TU Munich!\
-**16/07/2023** Master GAN paper published in IGARSS 2023! \
-**17/02/2023** Text Localization paper published in IOSR Journal! \
-**16/01/2023** Achieved DAAD-WISE Scholarship! \
-**25/08/2022** Grand Finalist of SIH 2022 at GTU, Ahmedabad! \
-**15/07/2022** Completed Summer Research Internship at IIIT Allahabad!
+*31/01/2024* Secured 4th Position at SemEval Task-3 Competition! \
+*19/12/2023* Grand Finalist of SIH 2023 at KIT, Kolhapur! \
+*01/08/2023* Completed Summer Research Internship at TU Munich!\
+*16/07/2023* Master GAN paper published in IGARSS 2023! \
+*17/02/2023* Text Localization paper published in IOSR Journal! \
+*16/01/2023* Achieved DAAD-WISE Scholarship! \
+*25/08/2022* Grand Finalist of SIH 2022 at GTU, Ahmedabad! \
+*15/07/2022* Completed Summer Research Internship at IIIT Allahabad!
 
 ### Publications
 
 *Master GAN: Multiple Attention is all you Need: A Multiple Attention Guided Super Resolution Network for Dems*  
-A. Mohammed, M. Kashif, M. H. Zama, **M. A. Ansari** and S. Ali \
+A. Mohammed, M. Kashif, M. H. Zama, *M. A. Ansari* and S. Ali \
 IEEE IGARSS, 2023\
 \[[PDF](https://ieeexplore.ieee.org/abstract/document/10283196)\] \[[Code](https://github.com/sheikhazhanmohammed/MASTERGAN)\]
 
 *Revisiting TextFuseNet: Text Context Enhanced Attention Networks For Scene Text Localization*  
-H. Hinduja, **M. A. Ansari** \
+H. Hinduja, *M. A. Ansari* \
 IOSR Journal of Computer Engineering, 2023\
 \[[PDF](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue1/Ser-1/E2501013749.pdf)\] \[[Code](https://github.com/m-abbas-ansari/AttentionText)\]

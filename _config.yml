@@ -13,9 +13,9 @@ sidebar:
   - name: Email
     icon: fa-regular fa-envelope
     link: mailto:mohd.abbas.ansari.2001@gmail.com
-  - name: CV
-    icon: fa-regular fa-file-pdf
-    link: /assets/docs/cv.pdf
+  # - name: CV
+  #   icon: fa-regular fa-file-pdf
+  #   link: /assets/docs/cv.pdf
   - name: GitHub
     icon: fa-brands fa-github
     link: https://github.com/m-abbas-ansari

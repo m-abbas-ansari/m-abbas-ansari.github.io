@@ -22,12 +22,12 @@ My research interests lie in the intersection of neuroscience and artificial int
 
 ### Publications
 
-*Master GAN: Multiple Attention is all you Need: A Multiple Attention Guided Super Resolution Network for Dems*  
+***Master GAN: Multiple Attention is all you Need: A Multiple Attention Guided Super Resolution Network for Dems***  
 A. Mohammed, M. Kashif, M. H. Zama, *M. A. Ansari*\* and S. Ali \
 IEEE IGARSS, 2023\
 \[[PDF](https://ieeexplore.ieee.org/abstract/document/10283196)\] \[[Code](https://github.com/sheikhazhanmohammed/MASTERGAN)\]
 
-*Revisiting TextFuseNet: Text Context Enhanced Attention Networks For Scene Text Localization*  
+***Revisiting TextFuseNet: Text Context Enhanced Attention Networks For Scene Text Localization***  
 H. Hinduja, *M. A. Ansari*\* \
 IOSR Journal of Computer Engineering, 2023\
 \[[PDF](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue1/Ser-1/E2501013749.pdf)\] \[[Code](https://github.com/m-abbas-ansari/AttentionText)\]
@@ -53,4 +53,8 @@ Eye movements can serve as a proxy for extracting neurological states of a subje
 **Real-time Indoor Video Dehazing using Knowledge Distillation**\
 *Smart India Hackathon Problem Statement, 2023* \
 \[[Slides](https://drive.google.com/file/d/1_YyKU8hJbUSRMd9U_3KBGM3byju15JR9/view?usp=sharing)\] \[[Solution Proposal](https://drive.google.com/file/d/1aWfAYDyxl2WXu0YaAbVPJdc2giFlot6J/view?usp=sharing)\]\
+We proposed to modify MAPNet, a UNET-based dehazing network for outdoor environments by replacing some of the block with TAM-Net, a 2D convolutional variant for videos. We experimented with distillation by creating a smaller student network for dehazing. During the hackathon, we experiemented with Dark Channel Prior and Boundary Contrainst Regularization approaches for benchmarking. \
+![Static Badge](https://img.shields.io/badge/--red?logo=pytorch&label=pytorch)
+![Static Badge](https://img.shields.io/badge/_-%235C3EE8?logo=opencv&label=opencv)
+
 

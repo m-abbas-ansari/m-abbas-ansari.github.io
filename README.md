@@ -31,3 +31,26 @@ IEEE IGARSS, 2023\
 H. Hinduja, *M. A. Ansari*\* \
 IOSR Journal of Computer Engineering, 2023\
 \[[PDF](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue1/Ser-1/E2501013749.pdf)\] \[[Code](https://github.com/m-abbas-ansari/AttentionText)\]
+
+### Projects
+**Multimodal Emotion-Cause Pair Extraction using Graph Neural Networks**  
+*Bachelors Minor Thesis, 2023*\
+\[[Thesis](https://drive.google.com/file/d/1PHWEezwM0vujDF8mSSSPtaIpPMI6GTC5/view?usp=sharing)\] \[[Slides](https://docs.google.com/presentation/d/1aQwf8vZg3c26uXxFzovtNwA92x8kad-IrHTJ6gKgHsk/edit?usp=sharing)\]\
+Developed a graph neural network for emotion-cause pair extraction from multimodal conversational data. Utilized CLIP,
+BERT, and HTS-AT audio encoder for diverse modality features. Explored multimodal fusion in transformers. Modeled
+conversational structure with graph attention networks.\
+![Static Badge](https://img.shields.io/badge/--red?logo=pytorch&label=pytorch)
+![Static Badge](https://img.shields.io/badge/--%23FFBE00?logo=weightsandbiases&label=%20weights%26biases)
+![Static Badge](https://img.shields.io/badge/transformers-5b5d5b?label=%F0%9F%A4%97)
+
+**Self-Supervised Learning for Free-Viewing Scanpaths**\
+*DAAD-WISE Research Project, 2023*\
+\[[Slides](https://docs.google.com/presentation/d/17F_fqesKFqedVg6sIdlgmOhkPmw0T2909jU3WfDWfX0/edit?usp=sharing)\] \[[Code](https://github.com/m-abbas-ansari/SSSL)\]\
+Eye movements can serve as a proxy for extracting neurological states of a subject. Our goal was to improve classifcation of a subject's cognitive characteristics based on their free-viewing scanpaths on images. We experimented with using a non-contrastive self-supervised learning technique based on BarlowTwins where we implemented novel scanpath distortion techniques to create multiple views of scanpaths. A combined  dataset was created using multiple publicly availble free-viewing scanpath datasets. Experiments demonstrated improvements in the downstream task of Autism detection.\
+![Static Badge](https://img.shields.io/badge/--red?logo=pytorch&label=pytorch)
+![Static Badge](https://img.shields.io/badge/--%23FFBE00?logo=weightsandbiases&label=%20weights%26biases)
+
+**Real-time Indoor Video Dehazing using Knowledge Distillation**\
+*Smart India Hackathon Problem Statement, 2023* \
+\[[Slides](https://drive.google.com/file/d/1_YyKU8hJbUSRMd9U_3KBGM3byju15JR9/view?usp=sharing)\] \[[Solution Proposal](https://drive.google.com/file/d/1aWfAYDyxl2WXu0YaAbVPJdc2giFlot6J/view?usp=sharing)\]\
+

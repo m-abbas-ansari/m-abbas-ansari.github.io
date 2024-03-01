@@ -1,5 +1,5 @@
 <!-- ## About me -->
-Hi! I am a final year undergraduate student of B.Tech. Computer Engineering at Jamia Millia Islamia University, New Delhi. I'm presently working on my Bachelors Major Thesis on Music Generation from Brain Scans under [Prof. Tanvir Ahmad](https://scholar.google.co.in/citations?user=y7YNRzoAAAAJ&hl=en). 
+Hi! I am a final year undergraduate student of B.Tech. Computer Engineering at Jamia Millia Islamia University, New Delhi. I'm presently working on my Bachelors Major Thesis on Music Generation from Brain Scans under [Prof. Tanvir Ahmad](https://scholar.google.co.in/citations?user=y7YNRzoAAAAJ&hl=en) where I'm exploring how to leverage Meta's [MusicGen](https://musicgen.com/), a conditional music LLM, for brain scans.
 
 I'm currently also a part-time researcher at the [HCTL Lab, TU Munich](https://www.edu.sot.tum.de/en/hctl/home/) led by [Prof. Dr. Enkelejda Kasneci](https://scholar.google.com/citations?user=bZVkVvoAAAAJ). I'm supervised by [Yao Rong](https://yaorong0921.github.io/homepage/) on the topic of self-supervised learning for scanpaths. I was a full-time summer research intern at TUM in 2023  funded by  [DAAD-WISE Scholarship](https://www.daad.in/en/find-funding/scholarship-database/?type=a&q=&status=1&subject=F&onlydaad=1&detail_to_show=0&target=4&origin=4&pg=1&detail_to_show=50015295). Previously, I've been a summer research intern at IIIT Allahabad under [Prof. Anupam Agarwal](https://scholar.google.co.in/citations?user=mVXjhhgAAAAJ&hl=en) where I worked on ASD diagnosis based on visual attention. I was mentored on my first research [paper](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue1/Ser-1/E2501013749.pdf) on wild scene text localization in images by [Hitesh Hinduja](https://hitesh-hinduja.mystrikingly.com/). 
 
@@ -7,8 +7,8 @@ I've had the honor of leading my team sCUDA_Divers to the Grand Finales of [Smar
 
 Recently, as part of my Bachelors Minor Thesis, I explored GNNs, LLMs, and RAG techniques for the research competition of Multimodal Emotion-Cause Pair Extraction in Conversations, a [SemEval 2024](https://nustm.github.io/SemEval-2024_ECAC/) Task. (_paper in progress!_)
 
-My research interests lie in the intersection of neuroscience and artificial intelligence. I want to build systems that can decode the cognitive activity of individuals with the least amount of invasive hardware. To essentially achieve mind reading using deep learning techniques.
-
+I'm interested in exploring multimodal LLMs with a specific focus towards the modality of brain scans. Currently exploring [Neural Decoding](https://en.wikipedia.org/wiki/Neural_decoding). I would love to work on projects on the intersection of neuroscience and artificial intelligence to further our understanding of the brain and intelligence.
+ 
 ### Highlights
 
 ```31/01/2024``` &nbsp; Secured 4th Position at SemEval Task-3 Competition! \

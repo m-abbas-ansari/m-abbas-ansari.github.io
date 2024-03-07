@@ -11,14 +11,16 @@ I'm interested in exploring multimodal LLMs with a specific focus towards the mo
  
 ### Highlights
 
-```31/01/2024``` &nbsp; Secured 4th Position at SemEval Task-3 Competition! \
-```19/12/2023``` &nbsp; Grand Finalist of SIH 2023 at KIT, Kolhapur! \
-```01/08/2023``` &nbsp; Completed Summer Research Internship at TU Munich!\
-```16/07/2023``` &nbsp; Master GAN paper published in IGARSS 2023! \
-```17/02/2023``` &nbsp; Text Localization paper published in IOSR Journal! \
-```16/01/2023``` &nbsp; Achieved DAAD-WISE Scholarship! \
-```25/08/2022``` &nbsp; Grand Finalist of SIH 2022 at GTU, Ahmedabad! \
-```15/07/2022``` &nbsp; Completed Summer Research Internship at IIIT Allahabad!
+```06/03/2024``` &nbsp; [2nd Rank in Third Year of Computer Engineering!](./assets/docs/third-year-rank-list.pdf) \
+```31/01/2024``` &nbsp; [Our team JMI Secured 4th Position at SemEval Task-3 Competition!](https://codalab.lisn.upsaclay.fr/competitions/16141#results) \
+    ```19/12/2023``` &nbsp; [Grand Finalist of SIH 2023 at KIT, Kolhapur!](./assets/docs/sih2023.pdf) \
+```01/08/2023``` &nbsp; [Completed Summer Research Internship at TU Munich!](./assets/docs/TUM.pdf)\
+```16/07/2023``` &nbsp; [Master GAN Paper Published in IGARSS 2023!](https://ieeexplore.ieee.org/abstract/document/10283196) \
+```10/04/2023``` &nbsp; [3rd Rank in Second Year of Computer Engineering!](./assets/docs/second-year-rank-list.pdf) \
+```17/02/2023``` &nbsp; [Text Localization Paper Published in IOSR Journal!](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue1/Ser-1/E2501013749.pdf) \
+```16/01/2023``` &nbsp; [Achieved DAAD-WISE Scholarship!](./assets/docs/DAAD-Scholarship.pdf) \
+```25/08/2022``` &nbsp; [Grand Finalist of SIH 2022 at GTU, Ahmedabad!](./assets/docs/sih2022.pdf) \
+```15/07/2022``` &nbsp; [Completed Summer Research Internship at IIIT Allahabad!](./assets/docs/IIITA-Cert.pdf)
 
 ### Publications
 

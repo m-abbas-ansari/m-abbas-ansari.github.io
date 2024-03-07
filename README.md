@@ -12,7 +12,7 @@ I'm interested in exploring multimodal LLMs with a specific focus towards the mo
 ### Highlights
 
 ```06/03/2024``` &nbsp; [2nd Rank in Third Year of Computer Engineering!](./assets/docs/third-year-rank-list.pdf) \
-```31/01/2024``` &nbsp; [Team JMI Secured 4th Position at SemEval Task-3 Competition!](https://codalab.lisn.upsaclay.fr/competitions/16141#results) \
+```31/01/2024``` &nbsp; [Team JMI Secured 4th Position at SemEval Task-3!](https://codalab.lisn.upsaclay.fr/competitions/16141#results) \
     ```19/12/2023``` &nbsp; [Grand Finalist of SIH 2023 at KIT, Kolhapur!](./assets/docs/sih2023.pdf) \
 ```01/08/2023``` &nbsp; [Completed Summer Research Internship at TU Munich!](./assets/docs/TUM.pdf)\
 ```16/07/2023``` &nbsp; [Master GAN Paper Published in IGARSS 2023!](https://ieeexplore.ieee.org/abstract/document/10283196) \

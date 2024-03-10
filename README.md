@@ -40,7 +40,7 @@ IOSR Journal of Computer Engineering, 2023\
 **Music Generation from Brain Scans**  
 *Bachelors Major Thesis, 2024*\
 \[[Proposal Presentation](https://docs.google.com/presentation/d/1AYVKKg1d6lnX1ucSG8T3KP1bAP5pYtKDgE_gHfT6UQ4/edit?usp=sharing){:target="_blank" rel="noopener"}\]\
-Working on decoding the music listened by a subject based on their FMRi scans. Using Nakai et al's dataset of 5 subjects' FMRi scans while listening to 540 music pieces. Implementing MusicGen, a conditional music Language model by Meta, for music generation conditioned on FMRi scans similar to Brain2Music framework. \
+Working on decoding the music listened by a subject based on their FMRi scans. Using [Nakai et al's dataset](https://pubmed.ncbi.nlm.nih.gov/34917714/){:target="_blank" rel="noopener"} of 5 subjects' FMRi scans while listening to 540 music pieces. Implementing [MusicGen](https://audiocraft.metademolab.com/musicgen.html){:target="_blank" rel="noopener"}, a conditional music Language model by Meta, for music generation conditioned on FMRi scans similar to [Brain2Music](https://google-research.github.io/seanet/brain2music/){:target="_blank" rel="noopener"} framework. \
 _(Work under progress)_ 
 
 **Multimodal Emotion-Cause Analysis in Conversations using in-context learning and instruction-tuned LLMs**  

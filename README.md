@@ -40,13 +40,13 @@ IOSR Journal of Computer Engineering, 2023\
 **Music Generation from Brain Scans**  
 *Bachelors Major Thesis, 2024*\
 \[[Proposal Presentation](https://docs.google.com/presentation/d/1AYVKKg1d6lnX1ucSG8T3KP1bAP5pYtKDgE_gHfT6UQ4/edit?usp=sharing){:target="_blank" rel="noopener"}\]\
-Working on decoding the music listened by a subject based on their FMRi scans. Using [Nakai et al's dataset](https://pubmed.ncbi.nlm.nih.gov/34917714/){:target="_blank" rel="noopener"} of 5 subjects' FMRi scans while listening to 540 music pieces. Implementing [MusicGen](https://audiocraft.metademolab.com/musicgen.html){:target="_blank" rel="noopener"}, a conditional music Language model by Meta, for music generation conditioned on FMRi scans similar to [Brain2Music](https://google-research.github.io/seanet/brain2music/){:target="_blank" rel="noopener"} framework. \
+Working on decoding the music listened by a subject based on their fMRI scans. Using [Nakai et al's dataset](https://pubmed.ncbi.nlm.nih.gov/34917714/){:target="_blank" rel="noopener"} of 5 subjects' fMRI scans while listening to 540 music pieces. Implementing [MusicGen](https://audiocraft.metademolab.com/musicgen.html){:target="_blank" rel="noopener"}, a conditional music Language model by Meta, for music generation conditioned on fMRI scans similar to [Brain2Music](https://google-research.github.io/seanet/brain2music/){:target="_blank" rel="noopener"} framework. \
 _(Work under progress)_ 
 
 **Multimodal Emotion-Cause Analysis in Conversations using in-context learning and instruction-tuned LLMs**  
 *SemEval 2024 Workshop Task 3 Competition*\
 \[[Paper](https://drive.google.com/file/d/1AzzcE2ofuFjqYbpzmdjVCRarWkVX4kz_/view?usp=sharing){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/CMOONCS/SemEval-2024_MultiModal_ECPE/tree/main){:target="_blank" rel="noopener"}\]\
-Developed an efficient video captioning techinque for conversational videos using GPT-4-Vision. Used Demonstration learning through retrieved examples for emotion recognition and cause prediction using GPT-3.5 for SemEval Task 3. Also implemented instruction-tuned Llama-2 model using QLoRA tecnique. Our approach won rank 4 in the competition. \
+Developed an efficient video captioning technique for conversational videos using GPT-4-Vision. Used Demonstration learning through retrieved examples for emotion recognition and cause prediction using GPT-3.5 for SemEval Task 3. Also implemented instruction-tuned Llama-2 model using QLoRA tecnique. Our approach won rank 4 in the competition. \
 _(Paper under review)_\
 ![Static Badge](https://img.shields.io/badge/--%23412991?logo=openai&label=openai)
 ![Static Badge](https://img.shields.io/badge/--green?label=%F0%9F%A6%9C%EF%B8%8Flangchain)
@@ -68,7 +68,7 @@ conversational structure with graph attention networks.\
 **Real-time Indoor Video Dehazing using Knowledge Distillation**\
 *Smart India Hackathon Grand Finale, 2023* \
 \[[Slides](https://drive.google.com/file/d/1_YyKU8hJbUSRMd9U_3KBGM3byju15JR9/view?usp=sharing){:target="_blank" rel="noopener"}\] \[[Solution Proposal](https://drive.google.com/file/d/1aWfAYDyxl2WXu0YaAbVPJdc2giFlot6J/view?usp=sharing){:target="_blank" rel="noopener"}\]\
-We proposed to modify MAPNet, a UNET-based dehazing network for outdoor environments by replacing some of the block with TAM-Net, a 2D convolutional variant for videos. We experimented with distillation by creating a smaller student network for dehazing. During the hackathon, we experiemented with Dark Channel Prior and Boundary Contrainst Regularization approaches for benchmarking. \
+We proposed to modify MAPNet, a UNET-based dehazing network for outdoor environments by replacing some of the blocks with TAM-Net, a 2D convolutional variant for videos. We experimented with distillation by creating a smaller student network for dehazing. During the hackathon, we experimented with Dark Channel Prior and Boundary Contrainst Regularization approaches for benchmarking. \
 ![Static Badge](https://img.shields.io/badge/--red?logo=pytorch&label=pytorch){:target="_blank" rel="noopener"}
 ![Static Badge](https://img.shields.io/badge/_-%235C3EE8?logo=opencv&label=opencv){:target="_blank" rel="noopener"}
 

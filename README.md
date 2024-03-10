@@ -37,6 +37,24 @@ IOSR Journal of Computer Engineering, 2023\
 ### Projects
 *In order of recency:*
 
+**Music Generation from Brain Scans**  
+*Bachelors Major Thesis, 2024*\
+\[[Proposal Presentation](https://docs.google.com/presentation/d/1AYVKKg1d6lnX1ucSG8T3KP1bAP5pYtKDgE_gHfT6UQ4/edit?usp=sharing){:target="_blank" rel="noopener"}\]\
+Working on decoding the music listened by a subject based on their FMRi scans. Using Nakai et al's dataset of 5 subjects' FMRi scans while listening to 540 music pieces. Implementing MusicGen, a conditional music Language model by Meta, for music generation conditioned on FMRi scans similar to Brain2Music framework. \
+_(Work under progress)_ 
+
+**Multimodal Emotion-Cause Analysis in Conversations using in-context learning and instruction-tuned LLMs**  
+*SemEval 2024 Workshop Task 3 Competition*\
+\[[Paper](https://drive.google.com/file/d/1AzzcE2ofuFjqYbpzmdjVCRarWkVX4kz_/view?usp=sharing){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/CMOONCS/SemEval-2024_MultiModal_ECPE/tree/main){:target="_blank" rel="noopener"}\]\
+Developed an efficient video captioning techinque for conversational videos using GPT-4-Vision. Used Demonstration learning through retrieved examples for emotion recognition and cause prediction using GPT-3.5 for SemEval Task 3. Also implemented instruction-tuned Llama-2 model using QLoRA tecnique. Our approach won rank 4 in the competition. \
+_(Paper under review)_\
+![Static Badge](https://img.shields.io/badge/--%23412991?logo=openai&label=openai)
+![Static Badge](https://img.shields.io/badge/--green?label=%F0%9F%A6%9C%EF%B8%8Flangchain)
+![Static Badge](https://img.shields.io/badge/--red?logo=pytorch&label=pytorch)
+![Static Badge](https://img.shields.io/badge/--%230467DF?logo=meta&label=llama)
+![Static Badge](https://img.shields.io/badge/--%23FFBE00?label=%F0%9F%A4%97accelerate)
+
+
 **Multimodal Emotion-Cause Pair Extraction using Graph Neural Networks**  
 *Bachelors Minor Thesis, 2023*\
 \[[Thesis](https://drive.google.com/file/d/1PHWEezwM0vujDF8mSSSPtaIpPMI6GTC5/view?usp=sharing){:target="_blank" rel="noopener"}\] \[[Slides](https://docs.google.com/presentation/d/1aQwf8vZg3c26uXxFzovtNwA92x8kad-IrHTJ6gKgHsk/edit?usp=sharing){:target="_blank" rel="noopener"}\]\
@@ -63,7 +81,7 @@ Eye movements can serve as a proxy for extracting neurological states of a subje
 
 
 
-**Super-Resolution of Digital Elevation Models (DEM){:target="_blank" rel="noopener"}**\
+**Super-Resolution of Digital Elevation Models (DEM)**\
 *Smart India Hackathon Grand Finale, 2022 & IEEE IGARSS, 2023*\
 \[[Slides](https://docs.google.com/presentation/d/13GKR8H8AjNDSijtup7leRnFHKwMQXmlF_HYQ5mBuW0I/edit?usp=sharing){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/m-abbas-ansari/SuperResolution-DEMs){:target="_blank" rel="noopener"}\] \[[Paper](https://ieeexplore.ieee.org/abstract/document/10283196){:target="_blank" rel="noopener"}\]\
 Led a team in developing a U-Net based convolutional network with attention for DEM super-resolution in ISRO’s Smart India Hackathon. DEMs collected from USGS LiDAR and SRTM, NASA ASTER and ISRO CartoSAT were used to curate the training set. Our team proposed MASTER GAN architecture achieving state-of-the-art results (PSNR 31.024, SSIM 0.908){:target="_blank" rel="noopener"} which got published at IEEE IGARSS 2023 conference.\
@@ -97,5 +115,5 @@ Developed a robust face recognition security system using MTCNN, VGGFace, and in
 **Novel Bible Verse Generator**\
 *First Deep Learning Project, 2021*\
 \[[Notebook](https://github.com/m-abbas-ansari/Machine-Learning-And-Data-Science/blob/main/pulp_fiction_quote_generation.ipynb){:target="_blank" rel="noopener"}\] \[[Example](https://www.linkedin.com/feed/update/urn:li:activity:6812461393271435264/){:target="_blank" rel="noopener"}\] \
-Trained a character-level neural language model on Bible (KJV) using LSTM. Built a loop to generate 1000 characters from the seed text which was the fake Bible verse quote from pulp fiction (1994)
+Trained a character-level neural language model on Bible (KJV) using LSTM. Built a loop to generate 1000 characters from the seed text which was the fake Bible verse quote from pulp fiction (1994)\
 ![Static Badge](https://img.shields.io/badge/_-%23D00000?logo=keras&label=keras)

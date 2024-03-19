@@ -5,12 +5,13 @@ I'm currently also a part-time researcher at the [HCTL Lab, TU Munich](https://w
 
 I've had the honor of leading my team sCUDA_Divers to the Grand Finales of [Smart India Hackathon](https://www.sih.gov.in/sih2023){:target="_blank" rel="noopener"} for consecutive years of 2022 and 2023. Our hackathon project on the Super-Resolution of Digital Elevation Models culminated in a research paper published in [IEEE IGARSS 2023](https://ieeexplore.ieee.org/abstract/document/10283196){:target="_blank" rel="noopener"}.
 
-Recently, as part of my Bachelors Minor Thesis, I explored GNNs, LLMs, and RAG techniques for the research competition of Multimodal Emotion-Cause Pair Extraction in Conversations, a [SemEval 2024](https://nustm.github.io/SemEval-2024_ECAC/){:target="_blank" rel="noopener"} Task. (_paper in progress!_)
+Recently, as part of my Bachelors Minor Thesis, I explored GNNs, LLMs, and RAG techniques for the research competition of Multimodal Emotion-Cause Pair Extraction in Conversations, a [SemEval 2024](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"} Task. (_paper accepted into conference!_)
 
 I'm interested in exploring multimodal LLMs with a specific focus towards the modality of brain scans. Currently exploring [Neural Decoding](https://en.wikipedia.org/wiki/Neural_decoding){:target="_blank" rel="noopener"}. I would love to work on projects on the intersection of neuroscience and artificial intelligence to further our understanding of the brain and intelligence.
  
 ### Highlights
 
+```19/03/2024``` &nbsp; [Paper on LLMs Accepted in SemEval 2024 Workshop!](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"} \
 ```06/03/2024``` &nbsp; [2nd Rank in Third Year of Computer Engineering!](./assets/docs/third-year-rank-list.pdf){:target="_blank" rel="noopener"} \
 ```31/01/2024``` &nbsp; [Team JMI Secured 4th Position at SemEval Task-3!](https://codalab.lisn.upsaclay.fr/competitions/16141#results){:target="_blank" rel="noopener"} \
     ```19/12/2023``` &nbsp; [Grand Finalist of SIH 2023 at KIT, Kolhapur!](./assets/docs/sih2023.pdf){:target="_blank" rel="noopener"} \
@@ -23,6 +24,11 @@ I'm interested in exploring multimodal LLMs with a specific focus towards the mo
 ```15/07/2022``` &nbsp; [Completed Summer Research Internship at IIIT Allahabad!](./assets/docs/IIITA-Cert.pdf){:target="_blank" rel="noopener"}
 
 ### Publications
+
+***JMI at SemEval 2024 Task 3: Two-step approach for multimodal ECAC using in-context learning with GPT and instruction-tuned Llama models***  
+Arefa, *M. A. Ansari*\*, C. Saxena, T. Ahmad \
+SemEval Workshop, 2024 _(ArXiv Preprint)_\
+\[[PDF](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/CMOONCS/SemEval-2024_MultiModal_ECPE/tree/main){:target="_blank" rel="noopener"}\]
 
 ***Master GAN: Multiple Attention is all you Need: A Multiple Attention Guided Super Resolution Network for Dems***  
 A. Mohammed, M. Kashif, M. H. Zama, *M. A. Ansari*\* and S. Ali \
@@ -45,9 +51,9 @@ _(Work under progress)_
 
 **Multimodal Emotion-Cause Analysis in Conversations using in-context learning and instruction-tuned LLMs**  
 *SemEval 2024 Workshop Task 3 Competition*\
-\[[Paper](https://drive.google.com/file/d/1AzzcE2ofuFjqYbpzmdjVCRarWkVX4kz_/view?usp=sharing){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/CMOONCS/SemEval-2024_MultiModal_ECPE/tree/main){:target="_blank" rel="noopener"}\]\
+\[[Paper](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/CMOONCS/SemEval-2024_MultiModal_ECPE/tree/main){:target="_blank" rel="noopener"}\]\
 Developed an efficient video captioning technique for conversational videos using GPT-4-Vision. Used Demonstration learning through retrieved examples for emotion recognition and cause prediction using GPT-3.5 for SemEval Task 3. Also implemented instruction-tuned Llama-2 model using QLoRA tecnique. Our approach won rank 4 in the competition. \
-_(Paper under review)_\
+_(Paper Accepted!)_\
 ![Static Badge](https://img.shields.io/badge/--%23412991?logo=openai&label=openai)
 ![Static Badge](https://img.shields.io/badge/--green?label=%F0%9F%A6%9C%EF%B8%8Flangchain)
 ![Static Badge](https://img.shields.io/badge/--red?logo=pytorch&label=pytorch)

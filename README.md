@@ -45,9 +45,10 @@ IOSR Journal of Computer Engineering, 2023\
 
 **Music Generation from Brain Scans**  
 *Bachelors Major Thesis, 2024*\
-\[[Proposal Presentation](https://docs.google.com/presentation/d/1AYVKKg1d6lnX1ucSG8T3KP1bAP5pYtKDgE_gHfT6UQ4/edit?usp=sharing){:target="_blank" rel="noopener"}\]\
-Working on decoding the music listened by a subject based on their fMRI scans. Using [Nakai et al's dataset](https://pubmed.ncbi.nlm.nih.gov/34917714/){:target="_blank" rel="noopener"} of 5 subjects' fMRI scans while listening to 540 music pieces. Implementing [MusicGen](https://audiocraft.metademolab.com/musicgen.html){:target="_blank" rel="noopener"}, a conditional music Language model by Meta, for music generation conditioned on fMRI scans similar to [Brain2Music](https://google-research.github.io/seanet/brain2music/){:target="_blank" rel="noopener"} framework. \
-_(Work under progress)_ 
+\[[Thesis](./assets/docs/Major_Thesis_MusicBrain.pdf){:target="_blank" rel="noopener"}\] 
+\[[Slides](https://docs.google.com/presentation/d/1HgKTPPPUA7hyLGmAwSAeAe4Nr9FhS0J9vmu8pdH8lQM/edit?usp=sharing){:target="_blank" rel="noopener"}\]\
+
+Tackled reconstruction of music listened by a subject based on their fMRI scans. Using [Nakai et al's dataset](https://pubmed.ncbi.nlm.nih.gov/34917714/){:target="_blank" rel="noopener"} of 5 subjects' fMRI scans while listening to 540 music pieces. Modified Meta's [MusicGen](https://audiocraft.metademolab.com/musicgen.html){:target="_blank" rel="noopener"} model for music generation conditioned on fMRI scans using the Map Method. Experimented with EnCodec, Chromagram Tokenizer, and T5 encoders, achieving the best performance using the T5 encoder with total averaging (FAD: 8.41, KL: 2.42, MCD: 4.87). Identified the temporal lobe as crucial for music reconstruction, highlighting the importance of auditory processing, language comprehension, and multimodal integration in the neural representation of music.\
 
 **Multimodal Emotion-Cause Analysis in Conversations using in-context learning and instruction-tuned LLMs**  
 *SemEval 2024 Workshop Task 3 Competition*\

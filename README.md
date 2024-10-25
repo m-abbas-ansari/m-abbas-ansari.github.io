@@ -12,7 +12,7 @@ Recently, as part of my Bachelors Minor Thesis, I explored GNNs, LLMs, and RAG t
 ### Highlights
 
 ```01/10/2024``` &nbsp; [Began Master's in Computational Neuroscience at Tübingen!](https://www.neuroschool-tuebingen.de/master/comp-neurosci-neural-inf-process/){:target="_blank" rel="noopener"} \
-```23/05/2024``` &nbsp; [Graduated with Honours in BTech Computer Engineering from JMI!](./assets/docs/degree.pdf){:target="_blank" rel="noopener"} \
+```23/05/2024``` &nbsp; [Graduated with Honours in B.Tech. Computer Engineering!](./assets/docs/degree.pdf){:target="_blank" rel="noopener"} \
 ```19/03/2024``` &nbsp; [Paper on LLMs Accepted in SemEval 2024 Workshop!](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"} \
 ```06/03/2024``` &nbsp; [2nd Rank in Third Year of Computer Engineering!](./assets/docs/third-year-rank-list.pdf){:target="_blank" rel="noopener"} \
 ```31/01/2024``` &nbsp; [Team JMI Secured 4th Position at SemEval Task-3!](https://codalab.lisn.upsaclay.fr/competitions/16141#results){:target="_blank" rel="noopener"} \

@@ -17,7 +17,7 @@ My interests are broad and ambitious. Thus, I'm trying to zero in on a few quest
 
 
 ### Background
-I completed my B.Tech. Computer Engineering at Jamia Millia Islamia University, New Delhi in June 2024. I was supervised by [Prof. Tanvir Ahmad](https://scholar.google.co.in/citations?user=y7YNRzoAAAAJ&hl=en){:target="_blank" rel="noopener"} on my Bachelor's thesis on ["Music Generation from Brain Scans"](/assets/docs/Major_Thesis_MusicBrain.pdf){:target="_blank" rel="noopener"} which was my first major exploration into a problem of neuroscience involving reconstructing the music listened by subjects purely from their fMRI scans. This project made me fell in love with neuroscience. 
+I completed my B.Tech. Computer Engineering at Jamia Millia Islamia University, New Delhi in June 2024. I was supervised by [Prof. Tanvir Ahmad](https://scholar.google.co.in/citations?user=y7YNRzoAAAAJ&hl=en){:target="_blank" rel="noopener"} on my Bachelor's thesis on ["Music Generation from Brain Scans"](/assets/docs/Major_Thesis_MusicBrain.pdf){:target="_blank" rel="noopener"} which was my first major exploration into a problem of neuroscience involving reconstructing the music listened by subjects purely from their fMRI scans. This project made me fall in love with neuroscience. 
 
 As part of my Bachelors Minor Thesis, I explored GNNs, LLMs, and RAG techniques for the research competition of Multimodal Emotion-Cause Pair Extraction in Conversations, a [SemEval 2024](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"} Task. 
 

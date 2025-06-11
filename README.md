@@ -47,8 +47,8 @@ I've had the honor of leading my team sCUDA_Divers to the Grand Finales of [Smar
 
 ***JMI at SemEval 2024 Task 3: Two-step approach for multimodal ECAC using in-context learning with GPT and instruction-tuned Llama models***  
 Arefa, *M. A. Ansari*\*, C. Saxena, T. Ahmad \
-SemEval Workshop, 2024 _(ArXiv Preprint)_\
-\[[PDF](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/CMOONCS/SemEval-2024_MultiModal_ECPE/tree/main){:target="_blank" rel="noopener"}\]
+ACL SemEval Workshop, 2024\
+\[[PDF](https://aclanthology.org/2024.semeval-1.223.pdf){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/CMOONCS/SemEval-2024_MultiModal_ECPE/tree/main){:target="_blank" rel="noopener"}\]
 
 ***Master GAN: Multiple Attention is all you Need: A Multiple Attention Guided Super Resolution Network for Dems***  
 A. Mohammed, M. Kashif, M. H. Zama, *M. A. Ansari*\* and S. Ali \

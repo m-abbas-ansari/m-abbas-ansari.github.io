@@ -25,9 +25,9 @@ sidebar:
   - name: Google Scholar
     icon: fa-brands fa-google-scholar
     link: https://scholar.google.com/citations?user=vOIa3kwAAAAJ&hl=en
-  - name: BlueSky
-    icon: fa-brands fa-bluesky
-    link: https://bsky.app/profile/m-abbas-ansari.bsky.social
+  - name: Twitter
+    icon: fa-brands fa-x-twitter
+    link: https://x.com/King_of_Haskul
 
 
 plugins:

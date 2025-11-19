@@ -1,20 +1,24 @@
 <!-- ## About me -->
-I'm a first year master's student of Computational Neuroscience at University of Tübingen and a [Graduate Research Assistant](https://www.kyb.tuebingen.mpg.de/person/139231/711799){:target="_blank" rel="noopener"} at [Cognitive Neuroscience & Neurotechnology Lab](https://www.kyb.tuebingen.mpg.de/cognitive-neuroscience-neurotechnology){:target="_blank" rel="noopener"}, Max Planck Institute for Biological Cybernetics under [Dr Romy Lorenz](https://www.kyb.tuebingen.mpg.de/person/128303/711763){:target="_blank" rel="noopener"}. 
+I'm a second-year master's student in Computational Neuroscience at the University of Tübingen and a [Graduate Research Assistant](https://www.kyb.tuebingen.mpg.de/person/139231/711799){:target="_blank" rel="noopener"} at the [Cognitive Neuroscience & Neurotechnology Lab](https://www.kyb.tuebingen.mpg.de/cognitive-neuroscience-neurotechnology){:target="_blank" rel="noopener"} at the Max Planck Institute for Biological Cybernetics, working with [Romy Lorenz](https://www.kyb.tuebingen.mpg.de/person/128303/711763){:target="_blank" rel="noopener"}. I am also doing a lab rotation with [Peter Dayan’s](https://en.wikipedia.org/wiki/Peter_Dayan){:target="_blank" rel="noopener"} group ([AGPD](https://www.kyb.tuebingen.mpg.de/computational-neuroscience){:target="_blank" rel="noopener"}), under [Roxana Zeraati](https://roxana-zeraati.github.io){:target="_blank" rel="noopener"}, on **meta-reinforcement learning for foraging tasks**, studying how recurrent agents internalise task structure in their dynamics and role of planning in foraging.
 
-**“The cosmos is within us. We are made of star stuff. _We are a way for the universe to know itself._”** ― Carl Sagan
+### Research
 
-I'm interested in understanding the underlying first principles of intelligence (such as [FEP](https://www.nature.com/articles/nrn2787){:target="_blank" rel="noopener"}), focusing on unique behaviours and phenomena arising from/in human brains. Essentially, I want to understand what makes homo sapiens stand out from all other life forms in their ability to tame nature and their depth of creativity. Many life forms possess brains, and we share many of the same neural mechanisms; we may have much more in common than what is different. Yet, I'm interested in understanding that potent tiny difference in the underlying neural architecture and mechanisms of human brains. Those differences might exist at any scale, from molecular to proteins to channels to synapses to neurons, populations to regions to [networks](https://mitpress.mit.edu/9780262528986/networks-of-the-brain/){:target="_blank" rel="noopener"}, to some unknown emergent architecture. I wish to find and understand them. 
+I'm interested in **first principles of intelligence**: what makes a resource-bounded agent capable of building, testing, and refining **causal abstractions** of its world? Brains do this remarkably well: they ingest high-dimensional, multimodal, noisy streams of data and somehow distil them into structured representations that support long-term prediction, control, and flexible behaviour. I want to understand those principles and turn them into algorithms.
 
-**"What I cannot build, I do not understand."** — Richard Feynman 
+The long-term aim is **agents that treat understanding as a control problem over causal models**: maintaining uncertainty over structured hypotheses, choosing informative interventions, and adjusting the level of abstraction when the current one is not identifiable, on demand. If we can build such systems, they could help tackle **causal discovery and control in complex domains** where data are messy and interventions are costly: from neuroscience and clinical research to economics, policy-making, and climate science.
 
-My interest in AI is only to test our extent of understanding of human intelligence. Current AI systems are energy-inefficient, and [neuromorphic computing](https://www.nature.com/articles/s41586-024-08253-8){:target="_blank" rel="noopener"} might hold some value in energy efficiency. Thus, I'm also interested in the [thermodynamics of computation](https://www.santafe.edu/research/projects/thermodynamics-computation){:target="_blank" rel="noopener"} in human brains. I'm trying to keep up with the [NeuroAI](https://www.nature.com/articles/s41467-023-37180-x){:target="_blank" rel="noopener"} space and [Active-Inference](https://arxiv.org/abs/2212.01354){:target="_blank" rel="noopener"} based methods.
+This agenda sits between machine learning and neuroscience:
 
-Understanding systems lets one know when and why they fail and how to manipulate and improve them. A principled understanding of the brain and its interaction with the environment can help us fix failings at different scales, from neuronal ones such as Parkinson's to psychological ones such as depression to social ones such as [genocide](https://en.wikipedia.org/wiki/Gaza_genocide). The human brain is taking action at the centre of psychology, sociology, economics and politics. These complex emergent phenomenons deserve to be studied at their own scales. Still, I want to bridge the gaps across scales, starting from the brain at the bottom. This is why I'm fascinated with [complexity science](https://complexityexplained.github.io){:target="_blank" rel="noopener"} and deeply inspired by "[The Complex World](https://davidckrakauer.com/artifacts/2024the-complex-world-an-introduction-to-the-foundations-of-complexity-science){:target="_blank" rel="noopener"}" book by David C. Krakauer.
+- From the ML side, I care about causal representation learning, probabilstic methods, abstraction for control, hierarchical RL, and sequential experimental design. I see synthetic environments and ML benchmarks as the best testing ground for these mathematical ideas, but also work towards robust automation of parts of scientific process and reliable decision-making in medical or policy settings.
 
-My interests are broad and ambitious. Thus, I'm trying to zero in on a few questions I want to pursue over the next few years as part of my master's thesis and a PhD. I wish to not limit myself to demarcations of fields and tools and be open to learning/researching everything and anything to satisfy my curiosities. Suggestions on research questions worth pursuing will be highly appreciated!
+- From the neuroscience side, I want a normative theory of causal cognition: how humans (and animals) actively grow and organise causal structure through interaction. It would be interesting to link the theory to mechanistic correlates in the brain aswell.
 
+Broadly, I’m drawn to problems where:
+- structure matters (causal graphs, programs, hierarchies),
+- data and interventions are expensive (brains, scientific experiments, complex systems),
+- and the goal is not just prediction, but understanding and controllable generalisation.
 
-
+I am applying to PhD programmes in both machine learning and neuroscience, looking for environments where theory-driven work on interactive, causal, hierarchical agents can be grounded in concrete empirical questions about brains and scientific discovery.
 
 ### Background
 I completed my B.Tech. Computer Engineering at Jamia Millia Islamia University, New Delhi in June 2024. I was supervised by [Prof. Tanvir Ahmad](https://scholar.google.co.in/citations?user=y7YNRzoAAAAJ&hl=en){:target="_blank" rel="noopener"} on my Bachelor's thesis on ["Music Generation from Brain Scans"](/assets/docs/Major_Thesis_MusicBrain.pdf){:target="_blank" rel="noopener"} which was my first major exploration into a problem of neuroscience involving reconstructing the music listened by subjects purely from their fMRI scans. This project made me fall in love with neuroscience. 
@@ -28,22 +32,23 @@ I've had the honor of leading my team sCUDA_Divers to the Grand Finales of [Smar
 
  
 ### Highlights
-```01/02/2025``` &nbsp; [Began Research Assistantship at Romy's Lab!](https://www.kyb.tuebingen.mpg.de/person/139231/711799){:target="_blank" rel="noopener"} \
-```01/10/2024``` &nbsp; [Began Master's in Computational Neuroscience at Tübingen!](https://www.neuroschool-tuebingen.de/master/comp-neurosci-neural-inf-process/){:target="_blank" rel="noopener"} \
-```23/05/2024``` &nbsp; [Graduated with Honours in B.Tech. Computer Engineering!](./assets/docs/degree.pdf){:target="_blank" rel="noopener"} \
+```06/10/2025``` &nbsp; [Began Lab Rotation at Computational Neuroscience Lab (AGPD).](https://www.kyb.tuebingen.mpg.de/computational-neuroscience){:target="_blank" rel="noopener"} \
+```01/02/2025``` &nbsp; [Began Research Assistantship at Romy's Lab.](https://www.kyb.tuebingen.mpg.de/person/139231/711799){:target="_blank" rel="noopener"} \
+```01/10/2024``` &nbsp; [Began Master's in Computational Neuroscience at Tübingen.](https://www.neuroschool-tuebingen.de/master/comp-neurosci-neural-inf-process/){:target="_blank" rel="noopener"} \
+```23/05/2024``` &nbsp; [Graduated with Honours in B.Tech. Computer Engineering.](./assets/docs/degree.pdf){:target="_blank" rel="noopener"} \
 ```19/03/2024``` &nbsp; [Paper on LLMs Accepted in SemEval 2024 Workshop!](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"} \
 ```06/03/2024``` &nbsp; [2nd Rank in Third Year of Computer Engineering!](./assets/docs/third-year-rank-list.pdf){:target="_blank" rel="noopener"} \
-```31/01/2024``` &nbsp; [Team JMI Secured 4th Position at SemEval Task-3!](https://codalab.lisn.upsaclay.fr/competitions/16141#results){:target="_blank" rel="noopener"} \
-    ```19/12/2023``` &nbsp; [Grand Finalist of SIH 2023 at KIT, Kolhapur!](./assets/docs/sih2023.pdf){:target="_blank" rel="noopener"} \
 ```01/08/2023``` &nbsp; [Completed Summer Research Internship at TU Munich!](./assets/docs/TUM.pdf){:target="_blank" rel="noopener"}\
 ```16/07/2023``` &nbsp; [Master GAN Paper Published in IGARSS 2023!](https://ieeexplore.ieee.org/abstract/document/10283196){:target="_blank" rel="noopener"} \
 ```10/04/2023``` &nbsp; [3rd Rank in Second Year of Computer Engineering!](./assets/docs/second-year-rank-list.pdf){:target="_blank" rel="noopener"} \
-```17/02/2023``` &nbsp; [Text Localization Paper Published in IOSR Journal!](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue1/Ser-1/E2501013749.pdf){:target="_blank" rel="noopener"} \
-```16/01/2023``` &nbsp; [Achieved DAAD-WISE Scholarship!](./assets/docs/DAAD-Scholarship.pdf){:target="_blank" rel="noopener"} \
-```25/08/2022``` &nbsp; [Grand Finalist of SIH 2022 at GTU, Ahmedabad!](./assets/docs/sih2022.pdf){:target="_blank" rel="noopener"} \
-```15/07/2022``` &nbsp; [Completed Summer Research Internship at IIIT Allahabad!](./assets/docs/IIITA-Cert.pdf){:target="_blank" rel="noopener"}
+```16/01/2023``` &nbsp; [Awarded DAAD-WISE Scholarship!](./assets/docs/DAAD-Scholarship.pdf){:target="_blank" rel="noopener"} \
 
 ### Publications
+
+***Natural Building Blocks for Structured World Models: Theory, Evidence, and Scaling***  
+L. DaCosta, S. Namjoshi, *M. A. Ansari*, B. Schölkopf \
+ArXiv preprint, 2025 _(Under review at World Modeling Workshop 2026)_\
+\[[PDF](https://arxiv.org/pdf/2511.02091){:target="_blank" rel="noopener"}\]
 
 ***JMI at SemEval 2024 Task 3: Two-step approach for multimodal ECAC using in-context learning with GPT and instruction-tuned Llama models***  
 Arefa, *M. A. Ansari*\*, C. Saxena, T. Ahmad \

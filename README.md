@@ -30,12 +30,12 @@ I've had the honor of leading my team sCUDA_Divers to the Grand Finales of [Smar
 ```01/02/2025``` &nbsp; [Began Research Assistantship at Romy's Lab.](https://www.kyb.tuebingen.mpg.de/person/139231/711799){:target="_blank" rel="noopener"} \
 ```01/10/2024``` &nbsp; [Began Master's in Computational Neuroscience at Tübingen.](https://www.neuroschool-tuebingen.de/master/comp-neurosci-neural-inf-process/){:target="_blank" rel="noopener"} \
 ```23/05/2024``` &nbsp; [Graduated with Honours in B.Tech. Computer Engineering.](./assets/docs/degree.pdf){:target="_blank" rel="noopener"} \
-```19/03/2024``` &nbsp; [Paper on LLMs Accepted in SemEval 2024 Workshop!](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"} \
-```06/03/2024``` &nbsp; [2nd Rank in Third Year of Computer Engineering!](./assets/docs/third-year-rank-list.pdf){:target="_blank" rel="noopener"} \
-```01/08/2023``` &nbsp; [Completed Summer Research Internship at TU Munich!](./assets/docs/TUM.pdf){:target="_blank" rel="noopener"}\
-```16/07/2023``` &nbsp; [Master GAN Paper Published in IGARSS 2023!](https://ieeexplore.ieee.org/abstract/document/10283196){:target="_blank" rel="noopener"} \
-```10/04/2023``` &nbsp; [3rd Rank in Second Year of Computer Engineering!](./assets/docs/second-year-rank-list.pdf){:target="_blank" rel="noopener"} \
-```16/01/2023``` &nbsp; [Awarded DAAD-WISE Scholarship!](./assets/docs/DAAD-Scholarship.pdf){:target="_blank" rel="noopener"} \
+```19/03/2024``` &nbsp; [Paper on LLMs Accepted in SemEval 2024 Workshop.](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"} \
+```06/03/2024``` &nbsp; [2nd Rank in Third Year of Computer Engineering.](./assets/docs/third-year-rank-list.pdf){:target="_blank" rel="noopener"} \
+```01/08/2023``` &nbsp; [Completed Summer Research Internship at TU Munich.](./assets/docs/TUM.pdf){:target="_blank" rel="noopener"}\
+```16/07/2023``` &nbsp; [Master GAN Paper Published in IGARSS 2023.](https://ieeexplore.ieee.org/abstract/document/10283196){:target="_blank" rel="noopener"} \
+```10/04/2023``` &nbsp; [3rd Rank in Second Year of Computer Engineering.](./assets/docs/second-year-rank-list.pdf){:target="_blank" rel="noopener"} \
+```16/01/2023``` &nbsp; [Awarded DAAD-WISE Scholarship.](./assets/docs/DAAD-Scholarship.pdf){:target="_blank" rel="noopener"} 
 
 ### Publications
 

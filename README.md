@@ -26,7 +26,7 @@ I've had the honor of leading my team sCUDA_Divers to the Grand Finales of [Smar
 
  
 ### Highlights
-```06/10/2025``` &nbsp; [Began Lab Rotation at Computational Neuroscience Lab (AGPD).](https://www.kyb.tuebingen.mpg.de/computational-neuroscience){:target="_blank" rel="noopener"} \
+```06/10/2025``` &nbsp; [Began Rotation at Computational Neuroscience Lab.](https://www.kyb.tuebingen.mpg.de/computational-neuroscience){:target="_blank" rel="noopener"} \
 ```01/02/2025``` &nbsp; [Began Research Assistantship at Romy's Lab.](https://www.kyb.tuebingen.mpg.de/person/139231/711799){:target="_blank" rel="noopener"} \
 ```01/10/2024``` &nbsp; [Began Master's in Computational Neuroscience at Tübingen.](https://www.neuroschool-tuebingen.de/master/comp-neurosci-neural-inf-process/){:target="_blank" rel="noopener"} \
 ```23/05/2024``` &nbsp; [Graduated with Honours in B.Tech. Computer Engineering.](./assets/docs/degree.pdf){:target="_blank" rel="noopener"} \

@@ -66,10 +66,10 @@ A. Mohammed, M. Kashif, M. H. Zama, *M. A. Ansari*\* and S. Ali \
 IEEE IGARSS, 2023\
 \[[PDF](https://ieeexplore.ieee.org/abstract/document/10283196){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/sheikhazhanmohammed/MASTERGAN){:target="_blank" rel="noopener"}\]
 
-***Revisiting TextFuseNet: Text Context Enhanced Attention Networks For Scene Text Localization***  
+<!-- ***Revisiting TextFuseNet: Text Context Enhanced Attention Networks For Scene Text Localization***  
 H. Hinduja, *M. A. Ansari*\* \
 IOSR Journal of Computer Engineering, 2023\
-\[[PDF](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue1/Ser-1/E2501013749.pdf){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/m-abbas-ansari/AttentionText){:target="_blank" rel="noopener"}\]
+\[[PDF](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue1/Ser-1/E2501013749.pdf){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/m-abbas-ansari/AttentionText){:target="_blank" rel="noopener"}\] -->
 
 <!-- ### Projects
 *In order of recency:*

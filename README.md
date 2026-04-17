@@ -52,7 +52,7 @@ I have also had the opportunity to lead my team, sCUDA_Divers, to the Grand Fina
 ### Publications
 
 ***Natural Building Blocks for Structured World Models: Theory, Evidence, and Scaling***  
-L. DaCosta, S. Namjoshi, *M. A. Ansari*, B. Schölkopf \
+L. DaCosta, S. Namjoshi, *M. A. Ansari*\*, B. Schölkopf \
 World Modeling Workshop, 2026 \
 \[[PDF](https://arxiv.org/pdf/2511.02091){:target="_blank" rel="noopener"}\]
 

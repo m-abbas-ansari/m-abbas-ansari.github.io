@@ -7,7 +7,7 @@ Earlier this year, I did an essay rotation at the Max Planck Institute for Intel
 
 I am interested in how learning is orchestrated in the brain. In particular, I want to understand how neural dynamics, memory, and interaction with the world give rise to internal structure that supports adaptive behaviour under uncertainty.
 
-My long-term focus is continual learning in the brain: how knowledge is built, stabilised, and reused over time without losing flexibility. I use tools from bayesian reinforcement learning and recurrent neural networks as formal lenses on these questions, with the broader goal of using insights from neuroscience to help guide continually learning AI.
+My long-term focus is continual learning in the brain: how knowledge is built, stabilised, and reused over time without losing flexibility. I use tools from bayesian reinforcement learning and recurrent neural networks as lenses on these questions, with the broader goal of using insights from neuroscience to help guide continually learning AI.
 
 ### Background
 

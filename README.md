@@ -53,7 +53,7 @@ I have also had the opportunity to lead my team, sCUDA_Divers, to the Grand Fina
 
 ***Natural Building Blocks for Structured World Models: Theory, Evidence, and Scaling***  
 L. DaCosta, S. Namjoshi, *M. A. Ansari*, B. Schölkopf \
-World Modeling Workshop 2026\
+World Modeling Workshop, 2026 \
 \[[PDF](https://arxiv.org/pdf/2511.02091){:target="_blank" rel="noopener"}\]
 
 ***JMI at SemEval 2024 Task 3: Two-step approach for multimodal ECAC using in-context learning with GPT and instruction-tuned Llama models***  
@@ -71,7 +71,7 @@ H. Hinduja, *M. A. Ansari*\* \
 IOSR Journal of Computer Engineering, 2023\
 \[[PDF](https://www.iosrjournals.org/iosr-jce/papers/Vol25-issue1/Ser-1/E2501013749.pdf){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/m-abbas-ansari/AttentionText){:target="_blank" rel="noopener"}\]
 
-### Projects
+<!-- ### Projects
 *In order of recency:*
 
 **Music Generation from Brain Scans**  
@@ -153,4 +153,4 @@ Developed a robust face recognition security system using MTCNN, VGGFace, and in
 *First Deep Learning Project, 2021*\
 \[[Notebook](https://github.com/m-abbas-ansari/Machine-Learning-And-Data-Science/blob/main/pulp_fiction_quote_generation.ipynb){:target="_blank" rel="noopener"}\] \[[Example](https://www.linkedin.com/feed/update/urn:li:activity:6812461393271435264/){:target="_blank" rel="noopener"}\] \
 Trained a character-level neural language model on Bible (KJV) using LSTM. Built a loop to generate 1000 characters from the seed text which was the fake Bible verse quote from pulp fiction (1994)\
-![Static Badge](https://img.shields.io/badge/_-%23D00000?logo=keras&label=keras)
+![Static Badge](https://img.shields.io/badge/_-%23D00000?logo=keras&label=keras) -->

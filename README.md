@@ -53,7 +53,7 @@ I have also had the opportunity to lead my team, sCUDA_Divers, to the Grand Fina
 
 ***Natural Building Blocks for Structured World Models: Theory, Evidence, and Scaling***  
 L. DaCosta, S. Namjoshi, *M. A. Ansari*, B. Schölkopf \
-ArXiv preprint, 2025 _(Under review at World Modeling Workshop 2026)_\
+World Modeling Workshop 2026\
 \[[PDF](https://arxiv.org/pdf/2511.02091){:target="_blank" rel="noopener"}\]
 
 ***JMI at SemEval 2024 Task 3: Two-step approach for multimodal ECAC using in-context learning with GPT and instruction-tuned Llama models***  

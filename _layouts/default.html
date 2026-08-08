@@ -1,72 +1,74 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>M. Abbas Ansari</title>
+    <title>Mohammed Abbas Ansari</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      (function () {
+        var saved = localStorage.getItem("theme");
+        var theme = saved || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+        document.documentElement.setAttribute("data-theme", theme);
+      })();
+    </script>
 
 {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
-    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" /> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,400..700;1,14..32,400..700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ "/assets/css/main.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
     {% include head-custom.html %}
   </head>
   <body>
     <div class="wrapper">
-      <header>
-        <h1 style="text-align:center"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
+      <header class="sidebar">
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Abbas Ansari" align="center" style="margin-left: 2em; margin-bottom: 2em; width: 80%; border-radius: 50%;"/>
+          <img class="avatar" src="{{ site.logo | relative_url }}" alt="Abbas Ansari" />
         {% endif %}
 
-        <p style="text-align:center">{{ site.description | default: site.github.project_tagline }}</p>
+        <h1 class="site-title"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
 
-        <!-- {% include sidebar.html %} -->
-        <div style="text-align: center">
-          <a href="https://github.com/m-abbas-ansari" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a> | <a href="https://www.linkedin.com/in/abbas-ansari-2001/" target="_blank"><i class="fa-brands fa-linkedin-in"></i> LinkedIn</a> | <a href="https://x.com/King_of_Haskul" target="_blank"><i class="fa-brands fa-x-twitter"></i> Twitter</a>
-          </br>
-          <a href="https://scholar.google.com/citations?user=vOIa3kwAAAAJ&hl=en" target="_blank"><i class="fa-brands fa-google-scholar"></i> Google Scholar</a> | <a href="mailto:mohammed-abbas.ansari@student.uni-tuebingen.de" target="_blank"><i class="fa-regular fa-envelope"></i> Email</a>  
-        </div>
-        
-        <div style="margin-top: 2em; margin-bottom: 2em; text-align: center">
+        <nav class="social" aria-label="Social links">
+          <a href="https://github.com/m-abbas-ansari" target="_blank" rel="noopener" title="GitHub" aria-label="GitHub"><i class="fa-brands fa-github"></i></a>
+          <a href="https://www.linkedin.com/in/abbas-ansari-2001/" target="_blank" rel="noopener" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+          <a href="https://x.com/King_of_Haskul" target="_blank" rel="noopener" title="Twitter / X" aria-label="Twitter / X"><i class="fa-brands fa-x-twitter"></i></a>
+          <a href="https://scholar.google.com/citations?user=vOIa3kwAAAAJ&hl=en" target="_blank" rel="noopener" title="Google Scholar" aria-label="Google Scholar"><i class="fa-brands fa-google-scholar"></i></a>
+          <a href="mailto:mohammed-abbas.ansari@student.uni-tuebingen.de" title="Email" aria-label="Email"><i class="fa-regular fa-envelope"></i></a>
+        </nav>
+
+        <nav class="site-nav" aria-label="Sections">
           <a href="#about-me">About Me</a>
-          <br/>
-  <!--         <a href="#upcoming-events">Upcoming Events</a>
-          <br/> -->
           <a href="#highlights">Highlights</a>
-          <br/>
           <a href="#publications">Publications</a>
-          <br/>
-          <a href="#projects">Projects</a>
-          <br/>
-          <a href="assets/docs/cv.pdf" target="_blank">CV</a>
-          <br/>
-         </div>
-  
-        
+          <a href="assets/docs/CV.pdf" target="_blank" rel="noopener">CV <i class="fa-solid fa-arrow-up-right-from-square fa-2xs"></i></a>
+        </nav>
+
+        <button id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+          <i class="fa-solid fa-moon"></i><i class="fa-solid fa-sun"></i>
+        </button>
       </header>
-      <section>
-      <p><a id="about-me"></a>
-      {{ content }}
-      
-       <hr/>
-       <p align="center"><small>Theme inspired by <a href="https://shrutirij.github.io" target="_blank">Shruti's page</a></small></p>
-      <!-- <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p align="center"><small>Theme inspired by <a href="https://shrutirij.github.io" target="_blank">Shruti's page</a></small></p>
-      </footer> -->
-      </section>
-      
+
+      <main>
+        <section>
+          <a id="about-me"></a>
+          {{ content }}
+        </section>
+        <!-- <footer>
+          <p><small>Theme inspired by <a href="https://shrutirij.github.io" target="_blank" rel="noopener">Shruti's page</a></small></p>
+        </footer> -->
+      </main>
     </div>
-    
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+
+    <script>
+      document.getElementById("theme-toggle").addEventListener("click", function () {
+        var root = document.documentElement;
+        var next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+        root.setAttribute("data-theme", next);
+        localStorage.setItem("theme", next);
+      });
+    </script>
   </body>
 </html>

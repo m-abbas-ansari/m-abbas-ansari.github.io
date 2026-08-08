@@ -1,17 +1,20 @@
 <!-- ## About me -->
-I'm a second-year master's student in Computational Neuroscience at the [GTC](https://www.neuroschool-tuebingen.de), University of Tübingen and an [IMPRS MMFD](https://imprs-mmfd.tuebingen.mpg.de) Scholar. I am doing my master's thesis with [Peter Dayan’s](https://en.wikipedia.org/wiki/Peter_Dayan){:target="_blank" rel="noopener"} group ([AGPD](https://www.kyb.tuebingen.mpg.de/computational-neuroscience){:target="_blank" rel="noopener"}), under [Roxana Zeraati](https://roxana-zeraati.github.io){:target="_blank" rel="noopener"}, using meta-reinforcement learning and ecological decision-making tasks to study how recurrent agents internalise task structure in their dynamics.
+I am a second-year master's student in Computational Neuroscience at the [GTC](https://www.neuroschool-tuebingen.de), University of Tübingen and an [IMPRS MMFD](https://imprs-mmfd.tuebingen.mpg.de) Scholar. I am doing my master's thesis with [Peter Dayan](https://en.wikipedia.org/wiki/Peter_Dayan){:target="_blank" rel="noopener"} and [Roxana Zeraati](https://roxana-zeraati.github.io){:target="_blank" rel="noopener"} at the Max Planck Institute for Biological Cybernetics, studying the problem of optimal foraging for resources under partial observability in dynamically changing environments.
 
-Earlier this year, I did an essay rotation at the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ&hl=en){:target="_blank" rel="noopener"} and [Lancelot Da Costa](https://www.lancelotdacosta.com){:target="_blank" rel="noopener"} on [growing causal abstractions](./assets/docs/Rotation-Essay-Mohammed-Abbas-Ansari.pdf){:target="_blank" rel="noopener"} in brains and machines. That project helped sharpen many of the questions that now drive my research.
+Earlier this year, I did an essay rotation at the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://scholar.google.com/citations?user=DZ-fHPgAAAAJ&hl=en){:target="_blank" rel="noopener"} and [Lancelot Da Costa](https://www.lancelotdacosta.com){:target="_blank" rel="noopener"} on [growing causal abstractions](./assets/docs/Rotation-Essay-Mohammed-Abbas-Ansari.pdf){:target="_blank" rel="noopener"} in brains and machines. 
 
 ### Research
 
-I am interested in how learning is orchestrated in the brain. In particular, I want to understand how neural dynamics, memory, and interaction with the world give rise to internal structure that supports adaptive behaviour under uncertainty.
+I am interested in understanding the first principles of intelligence as they appear in living systems and, increasingly, in machines. Intelligence naturally emerged from the pressures of survival and procreation through brains, specialised biological machinery that natural selection came to exploit across the countless life forms trotting, slithering, flapping and swimming across our planet. 
 
-My long-term focus is continual learning in the brain: how knowledge is built, stabilised, and reused over time without losing flexibility. I use tools from bayesian reinforcement learning and recurrent neural networks as lenses on these questions, with the broader goal of using insights from neuroscience to help guide continually learning AI.
+A core problem that brain-possessing life forms evolved to solve is foraging, i.e. a search for food or mates in a complex, ever-changing world replete with threats and uncertainties, which entails learning and planning for adaptive control. The mechanisms by which brains with diverse capacities and architectures across various ecological niches solve this problem are not well understood. I therefore study the problem of foraging as a means of uncovering general principles of natural intelligence that may (or may not) guide the study and development of artificial intelligence.
 
+I use the framework of reinforcement learning (RL) to construct foraging environments in which artificial agents learn and plan to behave optimally under resource constraints. I use neurobiologically plausible recurrent neural networks as RL agent architectures and study the dynamical systems solutions they discover to generate hypotheses that would be tested against behavioural and neural data from animals and humans.
+
+<!-- 
 ### Background
 
-I completed my B.Tech. in Computer Engineering at Jamia Millia Islamia University, New Delhi, in 2024. My bachelor's thesis on ["Music Generation from Brain Scans"](/assets/docs/Major_Thesis_MusicBrain.pdf){:target="_blank" rel="noopener"}, supervised by [Prof. Tanvir Ahmad](https://scholar.google.co.in/citations?user=y7YNRzoAAAAJ&hl=en){:target="_blank" rel="noopener"}, was my first major research project in neuroscience and drew me into the field. Since then, I have worked across multimodal language, self-supervised learning, visual attention, and remote sensing, with a recurring interest in learning, representation, and behaviour.
+I completed my Bachelor of Technology in Computer Engineering at Jamia Millia Islamia University, New Delhi, in 2024. My bachelor's thesis on ["Music Generation from Brain Scans"](/assets/docs/Major_Thesis_MusicBrain.pdf){:target="_blank" rel="noopener"}, supervised by [Prof. Tanvir Ahmad](https://scholar.google.co.in/citations?user=y7YNRzoAAAAJ&hl=en){:target="_blank" rel="noopener"}, was my first forray into neuroscience and drew me into the field. During my undergrad, I worked across multimodal ML problems, self-supervised learning, visual attention, and remote sensing, with a recurring interest in learning, representation, and behaviour. -->
 
 <!-- ### Background
 I completed my B.Tech. in Computer Engineering at Jamia Millia Islamia University, New Delhi in June 2024. I was supervised by [Prof. Tanvir Ahmad](https://scholar.google.co.in/citations?user=y7YNRzoAAAAJ&hl=en){:target="_blank" rel="noopener"} on my Bachelor's thesis on ["Music Generation from Brain Scans"](/assets/docs/Major_Thesis_MusicBrain.pdf){:target="_blank" rel="noopener"}, which was my first major research project in neuroscience. We studied whether music listened to by subjects could be reconstructed from fMRI data, and that project was what first drew me seriously into the field.
@@ -38,31 +41,31 @@ I have also had the opportunity to lead my team, sCUDA_Divers, to the Grand Fina
 
 ### Highlights
 ```04/2026``` &nbsp; [Began Master’s Thesis at the Computational Neuroscience Lab](https://www.kyb.tuebingen.mpg.de/computational-neuroscience){:target="_blank" rel="noopener"} \
-```04/2026``` &nbsp; [Awarded IMPRS MMFD Scholarship](https://imprs-mmfd.tuebingen.mpg.de){:target="_blank" rel="noopener"}{:target="_blank" rel="noopener"}. \
-```03/2026``` &nbsp; [Completed Essay rotation at MPI-IS](./assets/docs/Rotation-Essay-Mohammed-Abbas-Ansari.pdf){:target="_blank" rel="noopener"}. \
-```12/2025``` &nbsp; [Completed Lab rotation at MPI-KYB](./assets/docs/Lab_Rotation_Report.pdf){:target="_blank" rel="noopener"}. \
+```04/2026``` &nbsp; [Awarded IMPRS MMFD Scholarship](https://imprs-mmfd.tuebingen.mpg.de){:target="_blank" rel="noopener"}{:target="_blank" rel="noopener"} \
+```03/2026``` &nbsp; [Completed Essay rotation at MPI-IS](./assets/docs/Rotation-Essay-Mohammed-Abbas-Ansari.pdf){:target="_blank" rel="noopener"} \
+```12/2025``` &nbsp; [Completed Lab rotation at MPI-KYB](./assets/docs/Lab_Rotation_Report.pdf){:target="_blank" rel="noopener"} \
 <!-- ```02/2025``` &nbsp; [Began Research Assistantship at Romy's Lab.](https://www.kyb.tuebingen.mpg.de/person/139231/711799){:target="_blank" rel="noopener"} \ -->
-```10/2024``` &nbsp; [Began M.Sc. in Computational Neuroscience at Tübingen](https://www.neuroschool-tuebingen.de/master/comp-neurosci-neural-inf-process/){:target="_blank" rel="noopener"}. \
+```10/2024``` &nbsp; [Began M.Sc. in Computational Neuroscience at Tübingen](https://www.neuroschool-tuebingen.de/master/comp-neurosci-neural-inf-process/){:target="_blank" rel="noopener"} \
 ```06/2024``` &nbsp; [Graduated with Honours in B.Tech. Computer Engineering.](./assets/docs/degree.pdf){:target="_blank" rel="noopener"} \
-```03/2024``` &nbsp; [Paper on LLMs accepted at the SemEval 2024 Workshop](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"}. \
-```08/2023``` &nbsp; [Completed Summer Research Internship at TU Munich.](./assets/docs/TUM.pdf){:target="_blank" rel="noopener"}\
+```03/2024``` &nbsp; [Paper on LLMs accepted at the SemEval 2024 Workshop](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"} \
+```08/2023``` &nbsp; [Completed Summer Research Internship at TU Munich](./assets/docs/TUM.pdf){:target="_blank" rel="noopener"}\
 ```07/2023``` &nbsp; [Paper on DEM super-resolution published at IEEE IGARSS 2023](https://ieeexplore.ieee.org/abstract/document/10283196){:target="_blank" rel="noopener"}\
-```01/2023``` &nbsp; [Awarded DAAD-WISE Scholarship.](./assets/docs/DAAD-Scholarship.pdf){:target="_blank" rel="noopener"}
+```01/2023``` &nbsp; [Awarded DAAD-WISE Scholarship](./assets/docs/DAAD-Scholarship.pdf){:target="_blank" rel="noopener"}
 
 ### Publications
 
 ***Natural Building Blocks for Structured World Models: Theory, Evidence, and Scaling***  
-L. DaCosta, S. Namjoshi, *M. A. Ansari*\*, B. Schölkopf \
+L. DaCosta, S. Namjoshi, **M. A. Ansari**, B. Schölkopf \
 World Modeling Workshop, 2026 \
 \[[PDF](https://arxiv.org/pdf/2511.02091){:target="_blank" rel="noopener"}\]
 
 ***JMI at SemEval 2024 Task 3: Two-step approach for multimodal ECAC using in-context learning with GPT and instruction-tuned Llama models***  
-Arefa, *M. A. Ansari*\*, C. Saxena, T. Ahmad \
+Arefa, **M. A. Ansari**, C. Saxena, T. Ahmad \
 ACL SemEval Workshop, 2024\
 \[[PDF](https://aclanthology.org/2024.semeval-1.223.pdf){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/CMOONCS/SemEval-2024_MultiModal_ECPE/tree/main){:target="_blank" rel="noopener"}\]
 
 ***Master GAN: Multiple Attention is all you Need: A Multiple Attention Guided Super Resolution Network for Dems***  
-A. Mohammed, M. Kashif, M. H. Zama, *M. A. Ansari*\* and S. Ali \
+A. Mohammed, M. Kashif, M. H. Zama, **M. A. Ansari** and S. Ali \
 IEEE IGARSS, 2023\
 \[[PDF](https://ieeexplore.ieee.org/abstract/document/10283196){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/sheikhazhanmohammed/MASTERGAN){:target="_blank" rel="noopener"}\]
 
@@ -83,7 +86,7 @@ Tackled reconstruction of music listened by a subject based on their fMRI scans.
 **Multimodal Emotion-Cause Analysis in Conversations using in-context learning and instruction-tuned LLMs**  
 *SemEval 2024 Workshop Task 3 Competition*\
 \[[Paper](https://arxiv.org/abs/2403.04798){:target="_blank" rel="noopener"}\] \[[Code](https://github.com/CMOONCS/SemEval-2024_MultiModal_ECPE/tree/main){:target="_blank" rel="noopener"}\]\
-Developed an efficient video captioning technique for conversational videos using GPT-4-Vision. Used Demonstration learning through retrieved examples for emotion recognition and cause prediction using GPT-3.5 for SemEval Task 3. Also implemented instruction-tuned Llama-2 model using QLoRA tecnique. Our approach won rank 4 in the competition. \
+Developed an efficient video captioning technique for conversational videos using GPT-4-Vision. Used Demonstration learning through retrieved examples for emotion recognition and cause prediction using GPT-3.5 for SemEval Task 3. Also implemented instruction-tuned Llama-2 model using QLoRA tecnique. Our approach won rank 4 in the competition \
 _(Paper Accepted!)_\
 ![Static Badge](https://img.shields.io/badge/--%23412991?logo=openai&label=openai)
 ![Static Badge](https://img.shields.io/badge/--green?label=%F0%9F%A6%9C%EF%B8%8Flangchain)
@@ -105,7 +108,7 @@ conversational structure with graph attention networks.\
 **Real-time Indoor Video Dehazing using Knowledge Distillation**\
 *Smart India Hackathon Grand Finale, 2023* \
 \[[Slides](https://drive.google.com/file/d/1_YyKU8hJbUSRMd9U_3KBGM3byju15JR9/view?usp=sharing){:target="_blank" rel="noopener"}\] \[[Solution Proposal](https://drive.google.com/file/d/1aWfAYDyxl2WXu0YaAbVPJdc2giFlot6J/view?usp=sharing){:target="_blank" rel="noopener"}\]\
-We proposed to modify MAPNet, a UNET-based dehazing network for outdoor environments by replacing some of the blocks with TAM-Net, a 2D convolutional variant for videos. We experimented with distillation by creating a smaller student network for dehazing. During the hackathon, we experimented with Dark Channel Prior and Boundary Contrainst Regularization approaches for benchmarking. \
+We proposed to modify MAPNet, a UNET-based dehazing network for outdoor environments by replacing some of the blocks with TAM-Net, a 2D convolutional variant for videos. We experimented with distillation by creating a smaller student network for dehazing. During the hackathon, we experimented with Dark Channel Prior and Boundary Contrainst Regularization approaches for benchmarking \
 ![Static Badge](https://img.shields.io/badge/--red?logo=pytorch&label=pytorch){:target="_blank" rel="noopener"}
 ![Static Badge](https://img.shields.io/badge/_-%235C3EE8?logo=opencv&label=opencv){:target="_blank" rel="noopener"}
 
